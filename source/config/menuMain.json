@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introduccion",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/introduccion.html"     
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "componentes-bs",
+    "title": "1. Productos de la Ciencia, la Tecnología y la Innovación",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.1 Tipos de propiedad intelectual",
+        "anchor": "tema1"
+      },   
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.2 Nuevos servicios y nuevas formas de comunicación",
+        "anchor": "tema2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.3 Canales de transferencia de conocimiento",
+        "anchor": "tema3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.4 El método mactor",
+        "anchor": "tema4"
+      },     
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.5 Método de escenarios",
+        "anchor": "tema5"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "componentes-bs",
+        "title": "1.6 Método multipol",
+        "anchor": "tema6"
+      }
+    ]   
+  }
+]
