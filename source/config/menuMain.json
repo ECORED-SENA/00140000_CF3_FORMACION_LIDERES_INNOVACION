@@ -7,15 +7,7 @@
   },  
   { 
     "id": 1,
-    "icon": "fa fa-play-circle",
-    "slug": "introduccion",
-    "title": "Introduccion",
-    "breadcrumb": ["Inicio","Introducción"],
-    "path": "pages/introduccion.html"     
-  },
-  { 
-    "id": 1,
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text",
     "slug": "componentes-bs",
     "title": "1. Productos de la Ciencia, la Tecnología y la Innovación",
     "breadcrumb": ["Inicio","Introducción"],
