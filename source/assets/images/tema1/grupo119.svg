@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1048.429" height="424.362" viewBox="0 0 1048.429 424.362">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1048.429" height="418.044" viewBox="0 0 1048.429 418.044">
   <defs>
     <linearGradient id="linear-gradient" x1="0.854" y1="0.854" x2="0.146" y2="0.146" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#e8eced"/>
@@ -6,48 +6,47 @@
       <stop offset="1" stop-color="#fff"/>
     </linearGradient>
   </defs>
-  <g id="Grupo_115" data-name="Grupo 115" transform="translate(-198.051 -10458.919)">
-    <path id="Trazado_1" data-name="Trazado 1" d="M1183.4,10750.8H598.961a63.083,63.083,0,0,0,0,126.167H1183.4a63.083,63.083,0,0,0,0-126.167Z" fill="#db9600"/>
-    <g id="Grupo_1" data-name="Grupo 1">
+  <g id="Grupo_104" data-name="Grupo 104" transform="translate(-168.051 -10379.919)">
+    <path id="Trazado_1" data-name="Trazado 1" d="M1183.4,10750.8H598.961a63.083,63.083,0,0,0,0,126.167H1183.4a63.083,63.083,0,0,0,0-126.167Z" transform="translate(-30 -79)" fill="#db9600"/>
+    <g id="Grupo_1" data-name="Grupo 1" transform="translate(-30 -79)">
       <path id="Trazado_2" data-name="Trazado 2" d="M538.67,10815.88H467.577l-.586-.586-53.917-53.917,2.828-2.828,53.917,53.917-1.414-.586H538.67Z" fill="#c6cece"/>
       <rect id="Rectángulo_10" data-name="Rectángulo 10" width="96.427" height="4" transform="translate(442.242 10665.94)" fill="#c6cece"/>
       <path id="Trazado_3" data-name="Trazado 3" d="M538.67,10520H467.577l-.586.586-53.917,53.916,2.828,2.828,53.917-53.916-1.414.586H538.67Z" fill="#c6cece"/>
     </g>
-    <text id="http:_es.laprospective.fr_Metodos-de-prospectiva_Los-programas_71-Multipol.html" data-name="http://es.laprospective.fr/Metodos-de-prospectiva/Los-programas/71-Multipol.html" transform="translate(671.911 10851.281)" fill="#4a72b2" font-size="12" font-family="OpenSans-Italic, Open Sans" font-style="italic"><tspan x="0" y="13">http://es.laprospective.fr/Metodos-de-prospectiva/Los-programas/71-Multipol.html</tspan></text>
-    <circle id="Elipse_23" data-name="Elipse 23" cx="107.001" cy="107.001" r="107.001" transform="translate(198.051 10560.939)" fill="#ff3232"/>
-    <path id="Trazado_166" data-name="Trazado 166" d="M215.765,10667.941a89.286,89.286,0,1,1,89.289,89.282A89.285,89.285,0,0,1,215.765,10667.941Z" fill="#c6cece"/>
-    <path id="Trazado_167" data-name="Trazado 167" d="M219.107,10667.941a85.945,85.945,0,1,1,85.947,85.942A85.944,85.944,0,0,1,219.107,10667.941Z" fill="url(#linear-gradient)"/>
-    <circle id="Elipse_24" data-name="Elipse 24" cx="48.413" cy="48.413" r="48.413" transform="translate(550.548 10765.466)" fill="#e1ebf4"/>
-    <path id="Trazado_168" data-name="Trazado 168" d="M553.8,10813.879a45.159,45.159,0,1,1,45.159,45.158A45.158,45.158,0,0,1,553.8,10813.879Z" fill="url(#linear-gradient)"/>
-    <path id="Trazado_169" data-name="Trazado 169" d="M1183.4,10604.857H598.961a63.083,63.083,0,0,0,0,126.167H1183.4a63.083,63.083,0,0,0,0-126.167Z" fill="#db9600"/>
-    <path id="Trazado_170" data-name="Trazado 170" d="M550.548,10667.94a48.413,48.413,0,1,1,48.413,48.412A48.413,48.413,0,0,1,550.548,10667.94Z" fill="#e1ebf4"/>
-    <path id="Trazado_171" data-name="Trazado 171" d="M553.8,10667.94a45.159,45.159,0,1,1,45.159,45.157A45.158,45.158,0,0,1,553.8,10667.94Z" fill="url(#linear-gradient)"/>
-    <path id="Trazado_172" data-name="Trazado 172" d="M1181.041,10458.919H598.961a63.083,63.083,0,0,0,0,126.166h582.08a63.083,63.083,0,0,0,0-126.166Z" fill="#db9600"/>
-    <circle id="Elipse_25" data-name="Elipse 25" cx="48.413" cy="48.413" r="48.413" transform="translate(550.162 10570.024) rotate(-89.541)" fill="#e1ebf4"/>
-    <path id="Trazado_173" data-name="Trazado 173" d="M553.8,10522a45.159,45.159,0,1,1,45.159,45.158A45.158,45.158,0,0,1,553.8,10522Z" fill="url(#linear-gradient)"/>
-    <path id="Trazado_174" data-name="Trazado 174" d="M434,10667.941a8.245,8.245,0,1,1,8.244,8.243A8.245,8.245,0,0,1,434,10667.941Z" fill="#384b54"/>
-    <path id="Trazado_175" data-name="Trazado 175" d="M407.736,10580.647a8.245,8.245,0,1,1,11.482,2.023A8.244,8.244,0,0,1,407.736,10580.647Z" fill="#384b54"/>
-    <path id="Trazado_176" data-name="Trazado 176" d="M407.736,10755.234a8.245,8.245,0,1,0,11.482-2.024A8.244,8.244,0,0,0,407.736,10755.234Z" fill="#384b54"/>
-    <g id="Grupo_100" data-name="Grupo 100">
+    <circle id="Elipse_23" data-name="Elipse 23" cx="107.001" cy="107.001" r="107.001" transform="translate(168.051 10481.939)" fill="#ff3232"/>
+    <path id="Trazado_166" data-name="Trazado 166" d="M215.765,10667.941a89.286,89.286,0,1,1,89.289,89.282A89.285,89.285,0,0,1,215.765,10667.941Z" transform="translate(-30 -79)" fill="#c6cece"/>
+    <path id="Trazado_167" data-name="Trazado 167" d="M219.107,10667.941a85.945,85.945,0,1,1,85.947,85.942A85.944,85.944,0,0,1,219.107,10667.941Z" transform="translate(-30 -79)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_24" data-name="Elipse 24" cx="48.413" cy="48.413" r="48.413" transform="translate(520.548 10686.466)" fill="#e1ebf4"/>
+    <path id="Trazado_168" data-name="Trazado 168" d="M553.8,10813.879a45.159,45.159,0,1,1,45.159,45.158A45.158,45.158,0,0,1,553.8,10813.879Z" transform="translate(-30 -79)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_169" data-name="Trazado 169" d="M1183.4,10604.857H598.961a63.083,63.083,0,0,0,0,126.167H1183.4a63.083,63.083,0,0,0,0-126.167Z" transform="translate(-30 -79)" fill="#db9600"/>
+    <path id="Trazado_170" data-name="Trazado 170" d="M550.548,10667.94a48.413,48.413,0,1,1,48.413,48.412A48.413,48.413,0,0,1,550.548,10667.94Z" transform="translate(-30 -79)" fill="#e1ebf4"/>
+    <path id="Trazado_171" data-name="Trazado 171" d="M553.8,10667.94a45.159,45.159,0,1,1,45.159,45.157A45.158,45.158,0,0,1,553.8,10667.94Z" transform="translate(-30 -79)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_172" data-name="Trazado 172" d="M1181.041,10458.919H598.961a63.083,63.083,0,0,0,0,126.166h582.08a63.083,63.083,0,0,0,0-126.166Z" transform="translate(-30 -79)" fill="#db9600"/>
+    <circle id="Elipse_25" data-name="Elipse 25" cx="48.413" cy="48.413" r="48.413" transform="translate(520.162 10491.024) rotate(-89.541)" fill="#e1ebf4"/>
+    <path id="Trazado_173" data-name="Trazado 173" d="M553.8,10522a45.159,45.159,0,1,1,45.159,45.158A45.158,45.158,0,0,1,553.8,10522Z" transform="translate(-30 -79)" fill="url(#linear-gradient)"/>
+    <path id="Trazado_174" data-name="Trazado 174" d="M434,10667.941a8.245,8.245,0,1,1,8.244,8.243A8.245,8.245,0,0,1,434,10667.941Z" transform="translate(-30 -79)" fill="#384b54"/>
+    <path id="Trazado_175" data-name="Trazado 175" d="M407.736,10580.647a8.245,8.245,0,1,1,11.482,2.023A8.244,8.244,0,0,1,407.736,10580.647Z" transform="translate(-30 -79)" fill="#384b54"/>
+    <path id="Trazado_176" data-name="Trazado 176" d="M407.736,10755.234a8.245,8.245,0,1,0,11.482-2.024A8.244,8.244,0,0,0,407.736,10755.234Z" transform="translate(-30 -79)" fill="#384b54"/>
+    <g id="Grupo_100" data-name="Grupo 100" transform="translate(-30 -79)">
       <path id="Trazado_177" data-name="Trazado 177" d="M290.14,10614.538v33.279h29.825v-33.279Zm27.759,31.213H292.2v-23.522H317.9Z" fill="#38cebf"/>
       <path id="Trazado_178" data-name="Trazado 178" d="M322.152,10617.631v7.69h10.062v17.331H322.152v2.065H334.28v-27.087Z" fill="#88d83a"/>
       <path id="Trazado_179" data-name="Trazado 179" d="M275.825,10644.718h12.128v-2.065H277.89v-17.331h10.063v-7.69H275.825Z" fill="#f7b32d"/>
       <path id="Trazado_180" data-name="Trazado 180" d="M325.571,10615.53h2.457v-15.605H306.28v-8.687h-2.457v8.687H282.076v15.605h2.457v-13.148h19.29v9.555h2.457v-9.555h19.291Z" fill="#3c4554"/>
     </g>
-    <g id="Grupo_101" data-name="Grupo 101">
+    <g id="Grupo_101" data-name="Grupo 101" transform="translate(-30 -79)">
       <path id="Trazado_181" data-name="Trazado 181" d="M599.331,10825.658a2.259,2.259,0,0,0,2.009-2.481c-.329-3.121-1.989-6.082-5.064-9.046l3.4-7.767c2.919.788,8.029,1.395,12.626-1.949a2.258,2.258,0,1,0-2.655-3.652c-3.02,2.2-6.659,1.926-9.409,1.057a5.181,5.181,0,1,0-5.087-1.52c-.043.019-.085.043-.127.064a15.462,15.462,0,0,0-13.02,4.918,2.258,2.258,0,0,0,3.193,3.192,11.4,11.4,0,0,1,7.3-3.664l-3.179,7.256a2.206,2.206,0,0,0-.143.452c-1.135,5.537-3.865,9.17-7.616,12.921a2.257,2.257,0,1,0,3.192,3.192,30.442,30.442,0,0,0,7.885-11.737c2.6,2.363,3.989,4.576,4.218,6.756A2.26,2.26,0,0,0,599.331,10825.658Z" fill="#30423f"/>
       <path id="Trazado_182" data-name="Trazado 182" d="M610.358,10812.4v7.2h-7.2v7.2h-7.2v4.144h22.716V10812.4Z" fill="#38cebf"/>
     </g>
-    <g id="Grupo_102" data-name="Grupo 102">
+    <g id="Grupo_102" data-name="Grupo 102" transform="translate(-30 -79)">
       <path id="Trazado_183" data-name="Trazado 183" d="M626.925,10518.757c-2.422-1.6-4.622-3.139-6.565-4.5-7.554-5.292-13.012-9.118-21.4-9.118s-13.846,3.826-21.4,9.118c-1.942,1.362-4.143,2.905-6.566,4.5a1.491,1.491,0,0,0,0,2.489c2.423,1.6,4.625,3.14,6.568,4.5,7.554,5.293,13.011,9.117,21.4,9.117s13.844-3.824,21.4-9.117c1.943-1.362,4.145-2.905,6.568-4.5a1.49,1.49,0,0,0,0-2.489Zm-8.277,4.55a88.347,88.347,0,0,1-8.854,5.732,24.477,24.477,0,0,1-4.622,1.943,21.86,21.86,0,0,1-12.425,0,25.953,25.953,0,0,1-4.621-1.943,88.336,88.336,0,0,1-8.853-5.732c-1.452-1.016-3.048-2.136-4.778-3.3,1.728-1.17,3.325-2.289,4.775-3.3a88.4,88.4,0,0,1,8.856-5.734,27.161,27.161,0,0,1,4.621-1.942,21.837,21.837,0,0,1,12.425,0,27.671,27.671,0,0,1,4.622,1.942,88.515,88.515,0,0,1,8.856,5.734c1.45,1.015,3.046,2.134,4.775,3.3C621.7,10521.171,620.1,10522.291,618.648,10523.307Zm-19.687-6.589a3.283,3.283,0,1,0,3.283,3.284A3.283,3.283,0,0,0,598.961,10516.718Z" fill="#30423f"/>
       <path id="Trazado_184" data-name="Trazado 184" d="M598.961,10509.088A10.913,10.913,0,1,0,609.873,10520,10.914,10.914,0,0,0,598.961,10509.088Zm0,16.6a5.685,5.685,0,1,1,5.684-5.684A5.685,5.685,0,0,1,598.961,10525.686Z" fill="#bfe240"/>
     </g>
-    <g id="Grupo_103" data-name="Grupo 103">
+    <g id="Grupo_103" data-name="Grupo 103" transform="translate(-30 -79)">
       <path id="Trazado_185" data-name="Trazado 185" d="M620.651,10663.015a7.28,7.28,0,0,0-4.767-6.642,4.985,4.985,0,0,0,.124-1.064,5.739,5.739,0,0,0-5.766-5.45,4.972,4.972,0,0,0-5.027-3.934,4.887,4.887,0,0,0-5.092,4.64v34.273a5.4,5.4,0,0,0,5.634,5.117,5.918,5.918,0,0,0,3.927-1.445,4.929,4.929,0,0,0,1.616-2.776,5.712,5.712,0,0,0,5.467-5.437,4.994,4.994,0,0,0-.506-2.177,6.177,6.177,0,0,0,3.73-5.512,5.876,5.876,0,0,0-1.909-4.27A6.965,6.965,0,0,0,620.651,10663.015Zm-6.632,13.192a1.26,1.26,0,0,0-.65,2.152,2.686,2.686,0,0,1,.878,1.937,3.267,3.267,0,0,1-3.507,2.944,4.718,4.718,0,0,1-.486-.033,1.259,1.259,0,0,0-1.4,1.392,2.213,2.213,0,0,1,.013.239,2.378,2.378,0,0,1-.853,1.783,3.4,3.4,0,0,1-2.261.813,2.892,2.892,0,0,1-3.114-2.6v-10.262h2.627a.629.629,0,1,0,0-1.259h-2.627v-9.051h3.505a.63.63,0,1,0,0-1.26h-3.505v-12.442a2.62,2.62,0,0,1,5.144,0,1.667,1.667,0,0,1-.042.37,1.26,1.26,0,0,0,1.464,1.506,4.159,4.159,0,0,1,.773-.074,3.266,3.266,0,0,1,3.507,2.942,2.524,2.524,0,0,1-.337,1.246,1.258,1.258,0,0,0,.82,1.849,4.969,4.969,0,0,1,4.159,4.611,4.721,4.721,0,0,1-2.83,4.147,1.259,1.259,0,0,0-.006,2.263,3.636,3.636,0,0,1,2.175,3.183A3.9,3.9,0,0,1,614.019,10676.207Zm-3.18-11.943a4.929,4.929,0,0,0,4.407-.815.63.63,0,1,0-.738-1.022,3.4,3.4,0,0,1-4.456-.081c-1.092-1.091-1.5-3.3.613-6.236a.629.629,0,1,0-1.02-.737,10.632,10.632,0,0,0-1.181,2.062,5.5,5.5,0,0,1-3.043-1.78.63.63,0,0,0-.89.891,6.7,6.7,0,0,0,3.531,2.094,4.744,4.744,0,0,0,1.1,4.6,4.11,4.11,0,0,0,.55.461,8.825,8.825,0,0,0-1.448,5.317h-3.81a.63.63,0,0,0,0,1.261h4.062a9.445,9.445,0,0,0,1.615,3.069,4.961,4.961,0,0,0-2.782,4.277,4.143,4.143,0,0,0,.265,1.383c-1.4.788-2.683,2.087-2.683,5.038a.63.63,0,0,0,1.26,0c0-2.209.8-3.231,2.041-3.937a4.857,4.857,0,0,0,2.865,1.792.63.63,0,0,0,.263-1.231,3.292,3.292,0,0,1-2.751-3.059c-.024-1.864,1.644-3.382,4.46-4.06a.629.629,0,1,0-.294-1.224,11.109,11.109,0,0,0-1.481.465c-3.063-3.848-1.522-6.625-.482-8.478C610.823,10664.295,610.83,10664.281,610.839,10664.264Z" fill="#97c2c4"/>
       <path id="Trazado_186" data-name="Trazado 186" d="M592.727,10655.652a5.5,5.5,0,0,1-3.042,1.78,10.685,10.685,0,0,0-1.181-2.062.63.63,0,1,0-1.021.737c2.117,2.935,1.705,5.146.612,6.236a3.4,3.4,0,0,1-4.456.081.63.63,0,0,0-.737,1.022,4.928,4.928,0,0,0,4.407.815l.026.048c1.039,1.853,2.581,4.63-.483,8.478a10.863,10.863,0,0,0-1.48-.465.629.629,0,1,0-.293,1.224c2.815.678,4.482,2.2,4.46,4.06a3.292,3.292,0,0,1-2.753,3.059.63.63,0,0,0,.265,1.231,4.855,4.855,0,0,0,2.863-1.792c1.242.706,2.042,1.729,2.042,3.938a.63.63,0,0,0,1.26,0c0-2.951-1.28-4.25-2.682-5.038a4.092,4.092,0,0,0,.263-1.383,4.962,4.962,0,0,0-2.781-4.277,9.464,9.464,0,0,0,1.615-3.069H593.7a.63.63,0,0,0,0-1.261h-3.813a8.8,8.8,0,0,0-1.448-5.317,4.261,4.261,0,0,0,.552-.461,4.749,4.749,0,0,0,1.1-4.6,6.7,6.7,0,0,0,3.532-2.094.63.63,0,0,0-.891-.891Zm.206-9.728a4.97,4.97,0,0,0-5.026,3.934,5.741,5.741,0,0,0-5.767,5.45,4.989,4.989,0,0,0,.124,1.064,7.279,7.279,0,0,0-4.766,6.642,6.97,6.97,0,0,0,2.567,5.323,5.877,5.877,0,0,0-1.906,4.27,6.172,6.172,0,0,0,3.729,5.512,4.968,4.968,0,0,0-.508,2.177,5.713,5.713,0,0,0,5.468,5.438,5.516,5.516,0,0,0,5.543,4.222,5.914,5.914,0,0,0,3.926-1.445,4.858,4.858,0,0,0,1.707-3.672v-34.273A4.885,4.885,0,0,0,592.933,10645.925Zm2.572,17.082H592a.63.63,0,0,0,0,1.26h3.506v9.051h-2.627a.629.629,0,1,0,0,1.259h2.627v10.262a2.375,2.375,0,0,1-.854,1.783,3.4,3.4,0,0,1-2.26.813,2.893,2.893,0,0,1-3.114-2.6,2.229,2.229,0,0,1,.013-.239,1.259,1.259,0,0,0-1.4-1.392,4.7,4.7,0,0,1-.486.033,3.266,3.266,0,0,1-3.507-2.944,2.683,2.683,0,0,1,.879-1.937,1.26,1.26,0,0,0-.65-2.152,3.9,3.9,0,0,1-3.453-3.6,3.639,3.639,0,0,1,2.175-3.183,1.259,1.259,0,0,0,0-2.263,4.719,4.719,0,0,1-2.83-4.147,4.969,4.969,0,0,1,4.159-4.611,1.261,1.261,0,0,0,.819-1.849,2.514,2.514,0,0,1-.337-1.246,3.266,3.266,0,0,1,3.507-2.942,4.167,4.167,0,0,1,.773.074,1.259,1.259,0,0,0,1.463-1.506,1.725,1.725,0,0,1-.04-.37,2.62,2.62,0,0,1,5.143,0Z" fill="#30423f"/>
     </g>
-    <text id="Concepto" transform="translate(669.622 10475.886)" fill="#fff" font-size="26" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="25">Concepto</tspan></text>
-    <text id="Método_Multipol" data-name="Método Multipol" transform="translate(244.075 10658.524)" fill="#444242" font-size="26" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="12.677" y="25">Método </tspan><tspan x="8.023" y="56.2">Multipol</tspan></text>
+    <text id="Concepto" transform="translate(639.622 10396.886)" fill="#fff" font-size="26" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="25">Concepto</tspan></text>
+    <text id="Método_Multipol" data-name="Método Multipol" transform="translate(214.075 10579.524)" fill="#444242" font-size="26" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="12.677" y="25">Método </tspan><tspan x="8.023" y="56.2">Multipol</tspan></text>
     <text id="Es_un_método_que_tienen_en_cuenta_criterios_y_políticas_múltiples._" data-name="Es un método que tienen en cuenta criterios y políticas múltiples.
 
 
@@ -59,32 +58,10 @@
 
 
 
-" transform="translate(669.622 10511.385)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Es un método que tienen en cuenta criterios y </tspan><tspan x="0" y="39">políticas múltiples.</tspan></text>
-    <text id="Pretende" transform="translate(669.622 10626.019)" fill="#fff" font-size="26" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="25">Pretende</tspan></text>
-    <text id="Comparar_diferentes_acciones_o_soluciones_a_un_problema_en_función_de_criterios_y_de_políticas_múltiples._" data-name="Comparar diferentes acciones o soluciones a un problema en función de criterios y de políticas múltiples.
-
-
-
-  
-
-
-
-
-
-
-" transform="translate(669.622 10661.518)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Comparar diferentes acciones o soluciones a un problema en </tspan><tspan x="0" y="39">función de criterios y de políticas múltiples.</tspan><tspan x="0" y="61"></tspan></text>
-    <text id="Objetivo" transform="translate(669.622 10755.736)" fill="#fff" font-size="26" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="25">Objetivo</tspan></text>
-    <text id="Aportar_a_la_decisión_construyendo_un_tablero_de_análisis_simple_y_evolutivo_de_las_diferentes_acciones_o_soluciones_que_se_le_ofrecen_al_que_debe_tomar_la_decisión._" data-name="Aportar a la decisión construyendo un tablero de análisis simple y evolutivo de las diferentes acciones o soluciones que se le ofrecen al que debe tomar la decisión. 
-
-
-
-  
-
-
-
-
-
-
-" transform="translate(669.622 10780.216)" fill="#444242" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Aportar a la decisión construyendo un tablero de análisis simple </tspan><tspan x="0" y="39">y evolutivo de las diferentes acciones o soluciones que se le </tspan><tspan x="0" y="61">ofrecen al que debe tomar la decisión. </tspan></text>
+" transform="translate(639.622 10432.385)" fill="#fff" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Es un método que tienen en cuenta criterios y </tspan><tspan x="0" y="39">políticas múltiples.</tspan></text>
+    <text id="Pretende" transform="translate(639.622 10547.019)" fill="#fff" font-size="26" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="25">Pretende</tspan></text>
+    <text id="Comparar_diferentes_acciones_o_soluciones_a_un_problema_en_función_de_criterios_y_de_políticas_múltiples." data-name="Comparar diferentes acciones o soluciones a un problema en función de criterios y de políticas múltiples." transform="translate(639.622 10582.518)" fill="#fff" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Comparar diferentes acciones o soluciones a un problema en </tspan><tspan x="0" y="39">función de criterios y de políticas múltiples.</tspan></text>
+    <text id="Objetivo" transform="translate(639.622 10676.736)" fill="#fff" font-size="26" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="25">Objetivo</tspan></text>
+    <text id="Aportar_a_la_decisión_construyendo_un_tablero_de_análisis_simple_y_evolutivo_de_las_diferentes_acciones_o_soluciones_que_se_le_ofrecen_al_que_debe_tomar_la_decisión._" data-name="Aportar a la decisión construyendo un tablero de análisis simple y evolutivo de las diferentes acciones o soluciones que se le ofrecen al que debe tomar la decisión. " transform="translate(639.622 10712.216)" fill="#fff" font-size="16" font-family="OpenSans, Open Sans"><tspan x="0" y="17">Aportar a la decisión construyendo un tablero de análisis simple </tspan><tspan x="0" y="39">y evolutivo de las diferentes acciones o soluciones que se le </tspan><tspan x="0" y="61">ofrecen al que debe tomar la decisión. </tspan></text>
   </g>
 </svg>
